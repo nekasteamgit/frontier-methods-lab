@@ -44,6 +44,11 @@ The goal is to accumulate credible technical notes, experiment logs, and short e
 - How lightweight science tooling is changing solo research habits
 - Practical differences between agent demos and usable operator systems
 
+## Published notes
+
+- [Why Browser Agents Need Human Pace](content/posts/2026-05-24-why-browser-agents-need-human-pace.md)
+- [Small AI Benchmarks That Matter More Than Leaderboard Headlines](content/posts/2026-05-24-small-ai-benchmarks-that-matter.md)
+
 ## Publishing logic
 
 This repo can stay a content-first public project or later become a small static site.
