@@ -46,6 +46,7 @@ The goal is to accumulate credible technical notes, experiment logs, and short e
 
 ## Published notes
 
+- [Practical Signals That an AI Agent Workflow Is Ready for Daily Use](content/posts/2026-05-25-practical-signals-ai-agent-workflow-ready.md)
 - [Why Browser Agents Need Human Pace](content/posts/2026-05-24-why-browser-agents-need-human-pace.md)
 - [Small AI Benchmarks That Matter More Than Leaderboard Headlines](content/posts/2026-05-24-small-ai-benchmarks-that-matter.md)
 
