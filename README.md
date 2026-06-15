@@ -46,6 +46,7 @@ The goal is to accumulate credible technical notes, experiment logs, and short e
 
 ## Published notes
 
+- [Field Note: Hidden Costs of Retry Loops in Browser-Agent Pilots](content/posts/2026-06-15-field-note-hidden-costs-of-retry-loops-in-browser-agent-pilots.md)
 - [Why Simple Evaluation Checklists Make Agent Pilots More Trustworthy](content/posts/2026-06-08-why-simple-evaluation-checklists-make-agent-pilots-more-trustworthy.md)
 - [Why Small Retrieval Pipelines Often Beat Bigger Agent Stacks for Research Notes](content/posts/2026-06-01-small-retrieval-pipelines-research-notes.md)
 - [Why Local-First Automation Loops Often Beat Cloud-Only Demos](content/posts/2026-05-28-local-first-automation-loops.md)
