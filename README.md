@@ -46,6 +46,7 @@ The goal is to accumulate credible technical notes, experiment logs, and short e
 
 ## Published notes
 
+- [Testing Session Drift Before a Browser Task Starts](content/posts/2026-07-06-testing-session-drift-before-browser-task-starts.md)
 - [A Minimal Incident Timeline for Failed Browser Automations](content/posts/2026-06-29-minimal-incident-timeline-failed-browser-automations.md)
 - [Field Note: Hidden Costs of Retry Loops in Browser-Agent Pilots](content/posts/2026-06-15-field-note-hidden-costs-of-retry-loops-in-browser-agent-pilots.md)
 - [Why Simple Evaluation Checklists Make Agent Pilots More Trustworthy](content/posts/2026-06-08-why-simple-evaluation-checklists-make-agent-pilots-more-trustworthy.md)
