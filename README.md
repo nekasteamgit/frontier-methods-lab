@@ -46,6 +46,7 @@ The goal is to accumulate credible technical notes, experiment logs, and short e
 
 ## Published notes
 
+- [Compare Automation Runs With Evidence Before You Change the Workflow](content/posts/2026-08-10-compare-automation-runs-with-evidence.md)
 - [A Clear Human Handoff Boundary Makes Browser Tasks Safer](content/posts/2026-07-20-human-handoff-boundary-browser-tasks.md)
 - [Testing Session Drift Before a Browser Task Starts](content/posts/2026-07-06-testing-session-drift-before-browser-task-starts.md)
 - [A Minimal Incident Timeline for Failed Browser Automations](content/posts/2026-06-29-minimal-incident-timeline-failed-browser-automations.md)
